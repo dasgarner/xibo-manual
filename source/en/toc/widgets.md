@@ -16,6 +16,7 @@
 - [Text](media_module_text.html)
 - [Ticker](media_module_ticker.html)
 - [Google Traffic](media_module_googletraffic.html)
+- [Graph](media_module_graph.html)
 - [Twitter](media_module_twitter.html)
 - [Twitter Metro](media_module_twitter_metro.html)
 - [Video](media_module_video.html)
